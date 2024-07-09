@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.section{
+    background-color: rgb(207, 207, 207);
+    height: 720px;
+    width: 100%;
+}
+.col-12{
+    text-align: center;
+    padding: 220px;
+}
+i{
+    background-color: cadetblue;
+    font-size: 70px;
+    color: white;
+    border: 25px solid cadetblue;
+    border-radius: 100px;
+}
